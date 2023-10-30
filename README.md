@@ -1,6 +1,5 @@
 # documentAI
 
-# Assignments in detail as
 # Steps to be followed:
 You have been given a few pages in PDF’s where you have to load texts in Python efficiently (ignore the pages that are irrelevant in the below context).
 You need to work on below two assignments:
